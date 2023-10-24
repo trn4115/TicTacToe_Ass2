@@ -14,7 +14,7 @@ package com.lucas.gui;
  */
 import javax.swing.SwingUtilities;
 
-/**
+/** ENJOY! **
  * The `TicTacToe` class serves as the entry point for the Tic Tac Toe game. It
  * initializes and launches the game by creating a main menu within the Swing
  * Event Dispatch Thread (EDT).
