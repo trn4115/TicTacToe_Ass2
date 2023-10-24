@@ -8,7 +8,7 @@ package com.lucas.gui;
  * Student Name:    Lucas Hashemi 
  * Student ID:      14885318 
  * Assignment:      PDC/SC_Assignment_2
- * Group: 40
+ * Group:           40
  *
  * @author lucas
  */
