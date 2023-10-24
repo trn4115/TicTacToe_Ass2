@@ -1,0 +1,70 @@
+=============== START ===============
+
+Lucas placed their piece at position 1
+X| | 
+-+-+-
+ | | 
+-+-+-
+ | | 
+
+CPU placed their piece at position 4
+X| | 
+-+-+-
+O| | 
+-+-+-
+ | | 
+Lucas placed their piece at position 2
+X|X| 
+-+-+-
+O| | 
+-+-+-
+ | | 
+
+CPU placed their piece at position 6
+X|X| 
+-+-+-
+O| |O
+-+-+-
+ | | 
+Lucas placed their piece at position 3
+X|X|X
+-+-+-
+O| |O
+-+-+-
+ | | 
+=============== Lucas wins! ===============
+
+=============== START ===============
+
+LUCAS placed their piece at position 1
+X| | 
+-+-+-
+ | | 
+-+-+-
+ | | 
+JAMES placed their piece at position 2
+X|O| 
+-+-+-
+ | | 
+-+-+-
+ | | 
+LUCAS placed their piece at position 4
+X|O| 
+-+-+-
+X| | 
+-+-+-
+ | | 
+JAMES placed their piece at position 5
+X|O| 
+-+-+-
+X|O| 
+-+-+-
+ | | 
+LUCAS placed their piece at position 7
+X|O| 
+-+-+-
+X|O| 
+-+-+-
+X| | 
+=============== LUCAS wins! ===============
+
