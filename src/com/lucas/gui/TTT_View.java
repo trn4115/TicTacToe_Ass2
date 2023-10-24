@@ -173,7 +173,7 @@ public class TTT_View {
      */
     private JPanel createGamePanel() {
         gamePanel = new JPanel(new GridLayout(3, 3)); // Use GridLayout with 3 rows and 3 columns
-        gamePanel.setBackground(Color.DARK_GRAY);
+        gamePanel.setBackground(BACKGROUND_COLOR);
         return gamePanel;
     }
 
